@@ -262,6 +262,16 @@ Built with ❤️ and advanced AI orchestration for learners everywhere.
 
 ---
 
+## 👥 Authors
+- Saudha Shaheen
+- Eleni Tesfaye
+- Myra Rafiq
+- Aditi Adikari
+- Aamilah Ismail
+
+
+
+
 ## 🎯 Competitive Advantages
 
 - ✅ **Only platform** with true multi-agent AI orchestration (6 specialized agents)
